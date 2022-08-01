@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "annular-fold-278320",
+  "private_key_id": "a3bf5c0a28147a8b77abee8ff3b58f41777f2dec",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDi4iiCC2Loh4g7\nbAsar0HNmKWcref4zlEqk6LRtM7IuT1imDFLzgZKnX7+42iRUZN3HGAMaDUXKrJF\nNd4ndKmm7Xg4CnQxC4Chd74kPCz7kCr9uVypCGQknlQ7KXABq5dVmPKkjOvuiHY0\nh8SiwyZ8JeWZzglb//JwCkGkzNXh7TVeI2E0dxivjTDCNblCOYOSwTI87K6sjHmg\naV47brq14ObceiRHOgF72XJCb1o9cLfUvfbpaaNfShJRqKYH5Zssmkg7BpASN6wP\nf3nJ0hb6Xbagtkl6KA1KArTvcLqO8azwSlRFDMriZLhkCmXNX1NN0BFZeXbV4AZF\naha2T34FAgMBAAECggEACYsgAnrBiGygongLFLsrGYXvVW9YculIYouYpv+9gPwo\n8Y6oTpSvqnZq6WrRMuelCQOxcJddJrvRIty/Gv0q+htCc5nQ+GBc/HqOdEGJvNn8\nGcJKlc7SDSfelo+wJyNu6rCHAe/uW3eNZux2rRTOkVAaX9ImwTvU/ux968ibKI64\nnOw+BwnaQO+56YS+KrwJ8ww+KYMIss6d+w+mhRavmkJYFYKj0D23dl2+0TYa646J\njIKAFhb1cdLr5SR4khWYt2tRlYKtolY0rWB89yY6/d6FDI4va1IeTkPRJHyI8ETf\nb7b5Zr/smRRsy447jYddWSZsqjYpWh4CIy6Mw9bb4QKBgQDyxAs4hCNlVCPEaeZB\nU+VjCTEN2YsXjaazjqEO6lrP4Vz8kz+j1+VD3IF+R4roUXktHekXi0QH0f3njKtG\nW38tHQm+n+YAXEu0bNM2acs4MpegsP2HipuEeaZagmEKv9aROpea9UDmEJ0CMKQk\nZnxdljVgWVoIrnIzgeiseLl+NQKBgQDvQHcuw4+i3Ya+0FxZo//MVpTBr8NDr/EA\njsG+/ftiHrD1tm9lK+1TiRLrQ5pykOhnhf1MAHOZ+Y/yfNGH9leNjLvNiKQu//8F\nmDg0z3leWTxkwMHCLTeGDrB86AaEyNFh6qYJfSPQS8Y4C8Mg7kNWP6dNEML8pcQI\npQmuJOs6kQKBgBuSHkAd6bMxWhqNeGQE9jFIMvUCtuRG5x7PXQVHomanjpr00i52\nb4hEe8RutZzq29s+4WEWJPTKaY6pkC4eaBQkjx3CJSn3UXW9QkOUwkqwnD3YvAJv\nwHfMJRN0aTcCUIkP4XXs0qEOU/aStaGYrhkm3QsDOtFvlnK5F0a3M0HdAoGAPU0v\nPHQvIXPRSqLohq9Wo2yrwNTgGz/BaHsreVxqRMHIZazQ7gNLU9QTXOR9dk1avuu9\n8vNKq3EeSOtiZIvh8wrUM92G8+Pz2+Mcw6tFVb9XkhkxjCc5yseIwPhSc0NhIs2U\nrWm6+2vu5f1didqCtl6o5z4cN8/hYrWmvVAIVYECgYEAqig9nN1cYOrIBv3eARRu\nUqFD7HClZjqQIOecSwn3dKiacE5uB7w5fY0dI3HhsLFXY8VVPzXcBtX3vC41q424\nRI6I0CANArkaq727YWVw5VaDfkZ4fdq9kqWwfP0y5r56eVVJ79zB9Svs/O62w/y9\ncZTj/HF+5rFsxX5y7+AlKyY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sumofsounds@annular-fold-278320.iam.gserviceaccount.com",
+  "client_id": "105267840199037695580",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sumofsounds%40annular-fold-278320.iam.gserviceaccount.com"
+}
