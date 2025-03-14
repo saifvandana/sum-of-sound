@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "Voices the formulas",
   "main": "./client/src/App.js",
-  "author": "tkas9mbek <kasymbek.rustambekovich@gmail.com>",
+  "author": "vandana <vandanasaif@gmail.com>",
   "license": "MIT",
   "private": false,
   "engines": {
-    "node": "12.10.0",
-    "yarn": "1.17.3"
+    "node": "22.14.0",
+    "yarn": "1.22.19"
   },
   "keywords": [
     "sum of sounds",
